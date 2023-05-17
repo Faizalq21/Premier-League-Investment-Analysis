@@ -1,4 +1,4 @@
-# Premier-League-Investment-Analysis
+# Premier-League-Club-Investment-Analysis
 Premier League Club Investment Analysis for an Investment company (EDA)
 Domain: Sports
 
